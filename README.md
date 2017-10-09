@@ -83,7 +83,7 @@ Verplaats de hele stapel blokken één plek naar rechts. Zorg ervoor dat de volg
   robotArm.run();
 </script>
 ```
-Verplaats alle blokken één plek naar rechts. Zorg ervoor dat de volgorde van de blokken gelijk blijft. 
+Verplaats alle blokken één plek naar rechts. Zorg ervoor dat de volgorde van de blokken gelijk blijft.
 
 ![Oefening 5](readme/exercise6.png)
 
@@ -176,7 +176,7 @@ Je mag maximaal 20 regels code gebruiken!
   robotArm.run();
 </script>
 ```
-Verplaats alle witte blokken één plek naar rechts. 
+Verplaats alle witte blokken één plek naar rechts.
 
 Let op, de blokken zijn iedere keer anders als je het programma start!
 
